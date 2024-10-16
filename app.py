@@ -1,4 +1,3 @@
-import os
 import langcodes
 import google.generativeai as genai
 import streamlit as st
